@@ -3,7 +3,7 @@
 $host = "database-5017150378.webspace-host.com"; // je database host
 $dbname = "dbs13783533"; // naam van je database
 $username = "dbu5576770"; // je database gebruikersnaam
-$password = "QK1HETX@g!"; // je database wachtwoord
+// $password = ""; // je database wachtwoord
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
