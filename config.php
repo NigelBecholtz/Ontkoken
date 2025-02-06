@@ -1,8 +1,8 @@
 <?php
 
-$host = "database-5017150378.webspace-host.com"; // je database host
-$dbname = "dbs13783533"; // naam van je database
-$username = "dbu5576770"; // je database gebruikersnaam
+// $host = ""; // je database host
+// $dbname = ""; // naam van je database
+// $username = ""; // je database gebruikersnaam
 // $password = ""; // je database wachtwoord
 
 try {
